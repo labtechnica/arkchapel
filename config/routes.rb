@@ -1,4 +1,4 @@
-Arkchapel::Application.routes.draw do
+ArkChapel::Application.routes.draw do
   # The priority is based upon order of creation:
   # first created -> highest priority.
 

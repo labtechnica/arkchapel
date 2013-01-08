@@ -4,4 +4,4 @@
 
 require File.expand_path('../config/application', __FILE__)
 
-Arkchapel::Application.load_tasks
+ArkChapel::Application.load_tasks
